@@ -1,0 +1,23 @@
+@import 'bootstrap';
+
+/* universal */
+
+body {
+    padding-top: 60px;
+}
+
+
+/* header */
+header { 
+    li {
+        color: white;
+    }
+}
+
+/* error */
+#error_explanation {
+    color: #f00;
+    li {
+        list-style: none;
+    }
+}
